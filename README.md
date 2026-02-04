@@ -1,5 +1,5 @@
 # Bart Smits
-![Headshot Bart](assets/bartheadshot.png)
+![Headshot Bart](assets/bart_headshot.png)
 
 
 [Projects](pages/projects.md)
