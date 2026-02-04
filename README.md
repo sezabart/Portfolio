@@ -1,5 +1,8 @@
 # Bart Smits
-![Headshot Bart](assets/bart_headshot.png)
+![headshot](assets/bart_headshot.png)
+bart@seza.si
+Open for work and collaborations.
+Located in Ljubljana.
 
-
+## Showcase
 [Projects](pages/projects.md)
